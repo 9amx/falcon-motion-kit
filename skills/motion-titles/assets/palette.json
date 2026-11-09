@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "red": "#FF0000",
+    "green": "#00FF00",
+    "blue": "#0000FF",
+    "text": "#FFFFFF",
+    "shadow": "#000000",
+    "light_bg": "#F2F2F2"
+  },
+  "fonts": [
+    "Arial",
+    "Times New Roman",
+    "Courier New",
+    "Comic Sans MS",
+    "Impact"
+  ],
+  "defaults": {
+    "fps": 12,
+    "easing": "linear",
+    "min_hold_seconds": 2.5,
+    "shadow_offset_px": 1
+  }
+}
